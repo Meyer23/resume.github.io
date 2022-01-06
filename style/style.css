@@ -1,6 +1,8 @@
 body {
     background-color: lightblue;
     font-family: 'Open Sans', sans-serif;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
 }
 
 div {
@@ -31,6 +33,15 @@ img {
 
 span {
     font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    body {
+        background-color: lightblue;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 2.5rem;
+        margin-bottom: 2.5rem;
+    }
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
