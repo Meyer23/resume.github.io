@@ -1,12 +1,13 @@
 body {
     background-color: lightblue;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     margin-top: 2.5rem;
     margin-bottom: 2.5rem;
 }
 
+
 div {
-    background-color: white;
+    background-color: seashell;
     border: 1px solid black;
     padding: 12px;
     width: 60%;
